@@ -10,3 +10,4 @@
 * D3
 * Python  
 * HTML
+* JavaScript 

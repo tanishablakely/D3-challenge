@@ -1,4 +1,4 @@
-# Correlations Discovered Between Health Risks and Age, Income
+# Correlations Discovered Between Health Risks, Age, and Income
 
 # Overview:
  Created a scatter plot between Health Risk, Age, and Income data variables.
